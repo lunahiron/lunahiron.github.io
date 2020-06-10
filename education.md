@@ -23,7 +23,7 @@ background: '/img/bg-main.jpg'
 
 ## Teaching experience
 + Introduction to Marine Science Laboratory, RSMAS, University of Miami.
-+ Floating TA for the Ocean Sciences department, University of Miami.
++ General TA for the Ocean Sciences department, University of Miami.
 + Oceanographic Data Analysis, Oceanography department, Federal University of Santa Catarina, Brazil.
 + Introduction to Oceanography, Oceanography department, Federal University of Santa Catarina, Brazil.
 + Oceanography, Geography department, Federal University of Santa Catarina, Brazil.
