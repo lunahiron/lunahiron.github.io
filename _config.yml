@@ -1,0 +1,29 @@
+title:              Luna Hiron
+email:              lhiron@rsmas.miami.edu
+description:        Physical Oceanographer
+author:             Luna Hiron
+baseurl:            ""
+url:                "https://lunahiron.github.io"
+
+# Social Profiles
+twitter_username:   lunahiron
+github_username:    lunahiron
+facebook_username:
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+
+# Collections for the projects page
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+plugins:
+  - jekyll-paginate
