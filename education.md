@@ -34,10 +34,10 @@ background: '/img/bg-main.jpg'
 +	Multiple BATS and Hydrostation “S” expeditions aboard the R/V Atlantic Explorer for CTD profiles, water samples, sediment trap experiments, and deployment of Argo floats.
 
 ## Outreach
-+ Students for Students
++ Students for Students (Fall 2020)
 	+ <sub>This program connects RSMAS with the community through presentations and lessons given by Graduate students in Miami-Dade schools on marine and atmospheric science topics.</sub>   
 
-+ June – July 2018, Integrated Marine Program and College Training (IMPACT) Program
++ Integrated Marine Program and College Training (IMPACT) Program (Summer 2018)
 	+ <sub>The IMPACT Program provides high-school students with low-income and first-generation college-bound the opportunity to study meteorology, oceanography, and ecology, under the supervision of a graduate student for six weeks at the Rosenstiel School (University of Miami).</sub>   
 
 ## Languages
