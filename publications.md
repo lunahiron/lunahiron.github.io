@@ -6,7 +6,7 @@ background: '/img/bg-main.jpg'
 ---
 
 ## Scientific papers
-**L. Hiron**, D.S. Nolan, and L.K. Shay, 2020: Study of ageostrophy during strong, nonlinear eddy-front interaction in the Gulf of Mexico. *Journal of Physical Oceanography*, [https://doi.org/10.1175/JPO-D-20-0182.1](https://doi.org/10.1175/JPO-D-20-0182.1){:target="_blank"} (Early Online Release).
+**L. Hiron**, D.S. Nolan, and L.K. Shay, 2020: Study of ageostrophy during strong, nonlinear eddy-front interaction in the Gulf of Mexico. *Journal of Physical Oceanography*, [https://doi.org/10.1175/JPO-D-20-0182.1](https://doi.org/10.1175/JPO-D-20-0182.1){:target="_blank"}(Early Online Release).
 
 **L. Hiron**, B. Jaimes de la Cruz, and L.K. Shay, 2020: Evidence of Loop Current Frontal Eddy intensification through local linear and nonlinear interactions with the Loop Current. *Journal of Geophysical Research: Oceans*, 125, e2019JC015533. [https://doi.org/10.1029/2019JC015533](https://doi.org/10.1029/2019JC015533){:target="_blank"}.
 
