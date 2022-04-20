@@ -29,12 +29,12 @@ background: '/img/bg-main.jpg'
 + Student Award of Merit (2014) for having obtained the highest ranking in the Oceanography Undergraduate Program.
 
 ## Teaching experience
-+ <ins>Introduction to Marine Science Laboratory</ins>, RSMAS, University of Miami (Fall 2018).
++ <ins>Introduction to Marine Science Laboratory</ins>, RSMAS, University of Miami (Teaching assistant/Fall 2018).
 + <ins>General Teaching Assistant</ins> for the Ocean Sciences department, University of Miami (Spring 2018).
 + <ins>Integrated Marine Program and College Training (IMPACT) Program</ins>: six weeks teaching physical oceanography to high-school students, RSMAS, University of Miami (Summer 2018).
-+ <ins>Data Analysis in Oceanography</ins>, Oceanography department, Federal University of Santa Catarina, Brazil (Fall 2014).
++ <ins>Data Analysis in Oceanography</ins>, Oceanography department, Federal University of Santa Catarina, Brazil (Teaching assistant/Fall 2014).
 + <ins>Introduction to Oceanography</ins>, Oceanography department, Federal University of Santa Catarina, Brazil (Spring 2014).
-+ <ins>Introduction to Oceanography</ins>, Geography department, Federal University of Santa Catarina, Brazil (Fall 2013).
++ <ins>Introduction to Oceanography</ins>, Geography department, Federal University of Santa Catarina, Brazil (Teaching assistant/Fall 2013).
 
 ## Internships
 + February 2015 – August 2015, Bermuda Atlantic Time-series Study (BATS) at the Bermuda Institute of Ocean Sciences (BIOS), supervised by Rodney Johnson.
