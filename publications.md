@@ -6,7 +6,7 @@ background: '/img/bg-main.jpg'
 ---
 
 ## Scientific papers
-**L. Hiron**, P. Miron, L.K. Shay, W.E. Johns, E.P. Chassignet, and A. Bozec, 2022: Lagrangian coherence, source of water, and cross-shelf exchange associated with Loop Current Frontal Eddies in the Gulf of Mexico (under revision in Progress in Oceanography). 
+**L. Hiron**, P. Miron, L.K. Shay, W.E. Johns, E.P. Chassignet, and A. Bozec, 2022: Lagrangian coherence, source of water, and cross-shelf exchange associated with Loop Current Frontal Eddies in the Gulf of Mexico (under revision in Progress in Oceanography).
 
 **L. Hiron**, D.S. Nolan, and L.K. Shay, 2021: Study of Ageostrophy during Strong, Nonlinear Eddy-Front Interaction in the Gulf of Mexico, *Journal of Physical Oceanography*, 51(3), 745-755. [https://doi.org/10.1175/JPO-D-20-0182.1](https://doi.org/10.1175/JPO-D-20-0182.1){:target="_blank"}.
 
@@ -22,7 +22,7 @@ Selected to attend the *XI Physical Oceanography Dissertation Symposium (PODS)*,
 
 **L. Hiron**, P. Miron, L.K. Shay, W.E. Johns, E.P. Chassignet, and A. Bozec. Lagrangian coherence and source of water associated with Loop Current Frontal Eddies. **Woods Hole Oceanographic Institution**. Physical Oceanography seminar. February 2022 (*invited speaker*).
 
-**L. Hiron**, D.S. Nolan, & L.K. Shay. Study of Ageostrophy during Strong, Nonlinear Eddy-Front Interaction in the Gulf of Mexico. European Geosciences Union (EGU) General Assembly 2022. April 2021.
+**L. Hiron**, D.S. Nolan, & L.K. Shay. Study of Ageostrophy during Strong, Nonlinear Eddy-Front Interaction in the Gulf of Mexico. **2021 European Geosciences Union (EGU) General Assembly**. April 2021.
 
 **L. Hiron**, B. Jaimes, and L.K. Shay. Evidence of Loop Current Frontal Eddy intensification through local linear and nonlinear interactions with the Loop Current. **2020 Ocean Sciences Meeting**. San Diego, USA, February 2020.
 
