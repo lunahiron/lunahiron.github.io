@@ -6,7 +6,7 @@ background: '/img/bg-main.jpg'
 ---
 
 ## Scientific papers
-**L. Hiron**, P. Miron, L.K. Shay, W.E. Johns, E.P. Chassignet, and A. Bozec, 2022: Lagrangian coherence, source of water, and cross-shelf exchange associated with Loop Current Frontal Eddies in the Gulf of Mexico (*under revision in Progress in Oceanography*).
+**L. Hiron**, P. Miron, L.K. Shay, W.E. Johns, E.P. Chassignet, and A. Bozec, 2022: Lagrangian coherence and source of water of Loop Current Frontal Eddies in the Gulf of Mexico. *Progress in Oceanography*. pp. 102876, ISSN 0079-6611. [https://doi.org/10.1016/j.pocean.2022.102876](https://doi.org/10.1016/j.pocean.2022.102876){:target="_blank"}.
 
 **L. Hiron**, D.S. Nolan, and L.K. Shay, 2021: Study of Ageostrophy during Strong, Nonlinear Eddy-Front Interaction in the Gulf of Mexico, *Journal of Physical Oceanography*, 51(3), 745-755. [https://doi.org/10.1175/JPO-D-20-0182.1](https://doi.org/10.1175/JPO-D-20-0182.1){:target="_blank"}.
 
