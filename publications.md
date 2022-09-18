@@ -16,6 +16,9 @@ background: '/img/bg-main.jpg'
 Selected to attend the *XI Physical Oceanography Dissertation Symposium (PODS)*, in Kaua’i, Hawaii. October 2021.
 
 ## Talks
+
+**L. Hiron**, P. Miron, L.K. Shay, W.E. Johns, E.P. Chassignet, and A. Bozec. Lagrangian coherence and source of water of Loop Current Frontal Eddies in the Gulf of Mexico. **Planetary Fluid Dynamics Seminar Series**. Planetary Science Institute. Spring 2022 (*invited speaker*).
+
 **L. Hiron**, P. Miron, L.K. Shay, W.E. Johns, E.P. Chassignet, and A. Bozec. Lagrangian coherence, source of water, and cross-shelf exchange associated with Loop Current Frontal Eddies in the Gulf of Mexico. **U.S. Naval Research Laboratory (NRL) Stennis**. Ocean Sciences Division Seminar Series. March 2022 (*invited speaker*).
 
 **L. Hiron**, P. Miron, L.K. Shay, W.E. Johns, E.P. Chassignet, and A. Bozec. Lagrangian coherence, source of water, and cross-shelf exchange associated with Loop Current Frontal Eddies in the Gulf of Mexico. **2022 Ocean Sciences Meeting**. February 2022.
