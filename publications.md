@@ -7,11 +7,11 @@ background: '/img/bg-main.jpg'
 
 ## Peer-reviewed manuscripts
 
-Schönau, M.C., **L. Hiron**, J. Ragland, K.J. Raja, J. Skitka, M.S. Solano, X. Xu, B.K. Arbic, M.C. Buijsman, E.P. Chassignet, E. Coelho, R.W. Helber, J.F. Shriver, J.E. Summers, K.L. Verlinden, and A.J. Wallcraft, 2024: An Overview to Modeling, Characterizing, and Predicting the Effects of Internal Gravity Waves on Acoustic Propagation at Basin to Global Scales. Oceanography (*under review*).
+Schönau, M.C., **L. Hiron**, J. Ragland, K.J. Raja, J. Skitka, M.S. Solano, X. Xu, B.K. Arbic, M.C. Buijsman, E.P. Chassignet, E. Coelho, R.W. Helber, J.F. Shriver, J.E. Summers, K.L. Verlinden, and A.J. Wallcraft, 2024: An Overview to Modeling, Characterizing, and Predicting the Effects of Internal Gravity Waves on Acoustic Propagation at Basin to Global Scales. *Oceanography* (*under review*).
 
-Buijsman, M.C., B.K. Arbic, E.P. Chassignet, **L. Hiron**, J.F. Shriver, M. Solano, and X. Xu, 2024: Variance in Baroclinic Modes across Frequency Bands in a Global Ocean Simulation with Atmospheric and Tidal Forcing. Ocean Modelling (*under review*).
+Buijsman, M.C., B.K. Arbic, E.P. Chassignet, **L. Hiron**, J.F. Shriver, M. Solano, and X. Xu, 2024: Variance in Baroclinic Modes across Frequency Bands in a Global Ocean Simulation with Atmospheric and Tidal Forcing. *Ocean Modelling* (*under review*).
 
-Macdonald A. M., **L. Hiron**, L. McRaven, L. Stolp, K. Strom, R. Hudak, S. Smith, J. Hummon, and M. Andres, 2024: A Framework for Multidisciplinary Science Observations from Commercial Ships. ICES Journal of Marine Science, fsae011. [https://doi.org/10.1093/icesjms/fsae011](https://doi.org/10.1093/icesjms/fsae011){:target="_blank"}.
+Macdonald A. M., **L. Hiron**, L. McRaven, L. Stolp, K. Strom, R. Hudak, S. Smith, J. Hummon, and M. Andres, 2024: A Framework for Multidisciplinary Science Observations from Commercial Ships. *ICES Journal of Marine Science*, fsae011. [https://doi.org/10.1093/icesjms/fsae011](https://doi.org/10.1093/icesjms/fsae011){:target="_blank"}.
 
 **L. Hiron**, P. Miron, L.K. Shay, W.E. Johns, E.P. Chassignet, and A. Bozec, 2022: Lagrangian coherence and source of water of Loop Current Frontal Eddies in the Gulf of Mexico. *Progress in Oceanography*. pp. 102876, ISSN 0079-6611. [https://doi.org/10.1016/j.pocean.2022.102876](https://doi.org/10.1016/j.pocean.2022.102876){:target="_blank"}.
 
