@@ -36,24 +36,15 @@ background: '/img/bg-main.jpg'
 
 ## Service/Leadership
 + Co-organizer and early career chair of the 2024 Ocean Sciences Meeting Session “Internal waves and their interactions with (sub)mesoscale circulation and seafloor topography” 
-
 + Organizer of the Understanding Gulf Ocean Systems (UGOS) monthly seminar series, funded by the National Academy of Sciences (June 2023 – *Present*)
-
 + FSU Postdoctoral Association Member, Vice-President, and President (January 2022 – *Present*)
-	+ <sub>Duties: meetings with FSU provost, revisit policies, organize events and professional training for postdocs.	Major achievement in 2022-2023: FSU is the first public university in Florida to approve 8-weeks paid parental leave thanks to the effort of the FSU Postdoctoral Association and the Office of Postdoctoral Affairs.
- 
+	+ <sub>Duties: meetings with FSU provost, revisit policies, organize events and professional training for postdocs. Major achievement in 2022-2023: FSU is the first public university in Florida to approve 8-weeks paid parental leave.
 + Chair organizer of the 2023 FSU Postdoctoral Spring Event: Part 1 – “Academic & Industry CV Workshop”, Part 2 – “Improving mental health during your postdoc”. 
-
 + Chair organizer of the 2022 FSU Postdoctoral Spring Event: “Planning your career after a postdoc: academic and non-academic paths.” A free, one-day event and open for postdocs of all institutions, with eleven speakers from academia, industry, and government, and over a hundred participants. Website: [https://Fsupdaspringevent.github.io](https://Fsupdaspringevent.github.io){:target="_blank"}. 
-
 + Continuos generation of maps of ocean heat content superposed with hurricane track forecast from the National Hurricane Center during hurricane season for storm crossing the Gulf of Mexico: [http://isotherm.rsmas.miami.edu/heat/webstorms/idalia2023.php](http://isotherm.rsmas.miami.edu/heat/webstorms/idalia2023.php){:target="_blank"} (2021 – *Present*).
-
 + V International Symposium of Climatology (SIC), organizer (scientific and logistic committee member)
-
 + XXIV National Week of Oceanography (SNO), organizer (scientific committee member)
-
 + Reviewer for the NSF Physical Oceanography program (2022)
-
 + Reviewer for *Journal of Geophysical Research-Oceans*, *Geophysical Research Letters*, *Journal of Physical Oceanography*, *Ocean Science*, *Journal of Climate*, *Journal of Atmospheric and Oceanic Technology*, *Ocean Dynamics*, *Copernicus Journal*.
 
 ## Teaching experience
@@ -76,15 +67,11 @@ background: '/img/bg-main.jpg'
 ## Outreach
 + 2023 Gulf Coast Hurricane Awareness Tour (NOAA & NWS, May 2023)
 	+ <sub>Communicate with K-12 students and the local community about the role of the ocean in hurricane generation and intensification and raise awareness on hurricane preparedness.</sub>  
-
 + Florida State University's Women in Math, Science, and Engineering (WIMSE) program (April 2022 – *Present*).
-
 + Students for Students (Fall 2020)
 	+ <sub>This program connects RSMAS with the community through presentations and lessons given by Graduate students in Miami-Dade schools on marine and atmospheric science topics.</sub>   
-
 + Integrated Marine Program and College Training (IMPACT) Program (Summer 2018)
 	+ <sub>The IMPACT Program provides high-school students with low-income and first-generation college-bound the opportunity to study meteorology, oceanography, and ecology, under the supervision of a graduate student for six weeks at the Rosenstiel School (University of Miami).</sub>   
-
 + Ocean kids (2017-2019)
 	+ <sub>Yearly events where graduate students from the University of Miami Rosenstiel School share their love for science and ocean conservation with children from under-represented elementary schools.<\sub>
 
