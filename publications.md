@@ -7,6 +7,10 @@ background: '/img/bg-main.jpg'
 
 ## Peer-reviewed manuscripts
 
+**Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C.; Solano, M., 2024: The influence of vertical resolution on internal tide energetics and subsequent effects on underwater acoustic propagation. *Journal of Advances in Modeling Earth Systems (JAMES)* (*under review*). Preprint available.
+
+Miranda J.R., Zavala-Romero, O., **Hiron, L.**, Chassignet, E. P., Subrahmanyam, B., Meunier, T., Helber, R. W.,  Pallas-Sanz, E., Tenreiro, M., 2024: Neural Synthetic Profiles from Remote Sensing and Observations (NeSPReSO) – Reconstructing temperature and salinity fields in the Gulf of Mexico. *Ocean Modelling* (*under review*).
+
 Schönau, M.C., **L. Hiron**, J. Ragland, K.J. Raja, J. Skitka, M.S. Solano, X. Xu, B.K. Arbic, M.C. Buijsman, E.P. Chassignet, E. Coelho, R.W. Helber, J.F. Shriver, J.E. Summers, K.L. Verlinden, and A.J. Wallcraft, 2024: An Overview to Modeling, Characterizing, and Predicting the Effects of Internal Gravity Waves on Acoustic Propagation at Basin to Global Scales. *Oceanography* (*under review*).
 
 Buijsman, M.C., B.K. Arbic, E.P. Chassignet, **L. Hiron**, J.F. Shriver, M. Solano, and X. Xu, 2024: Variance in Baroclinic Modes across Frequency Bands in a Global Ocean Simulation with Atmospheric and Tidal Forcing. *Ocean Modelling* (*under review*).
