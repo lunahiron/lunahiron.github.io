@@ -7,7 +7,9 @@ background: '/img/bg-main.jpg'
 
 ## Peer-reviewed manuscripts
 
-**Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C.; Solano, M., 2024: The influence of vertical resolution on internal tide energetics and subsequent effects on underwater acoustic propagation. *Journal of Advances in Modeling Earth Systems (JAMES)* (*under review*). Preprint available.
+**Hiron, L.**, Zavala-Romero, O., Chassignet, E. P., *et al.*, 2024: Predicting the Lagrangian coherence of eddies using machine learning and sea surface height in the Gulf of Mexico. *Journal of Physical Oceanography* (*in prep*).
+
+**Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C.; Solano, M., 2024: The influence of vertical resolution on internal tide energetics and subsequent effects on underwater acoustic propagation. *Journal of Advances in Modeling Earth Systems (JAMES)* (*under review*). Preprint available here: [https://arxiv.org/abs/2404.05924](https://arxiv.org/abs/2404.05924){:target="_blank"}.
 
 Miranda J.R., Zavala-Romero, O., **Hiron, L.**, Chassignet, E. P., Subrahmanyam, B., Meunier, T., Helber, R. W.,  Pallas-Sanz, E., Tenreiro, M., 2024: Neural Synthetic Profiles from Remote Sensing and Observations (NeSPReSO) – Reconstructing temperature and salinity fields in the Gulf of Mexico. *Ocean Modelling* (*under review*).
 
