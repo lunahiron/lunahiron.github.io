@@ -15,9 +15,9 @@ Miranda J. R., Zavala-Romero, O., **Hiron, L.**, Chassignet, E. P., Subrahmanyam
 
 Schönau, M. C., **Hiron, L.**, Ragland, J., Raja, K. J., Skitka, J., Solano, M. S., Xu, X., Arbic, B. K., Buijsman, M. C., Chassignet, E. P., Coelho, E., Helber, R. W., Shriver, J. F., Summers, J. E., Verlinden, K. L., and Wallcraft, A. J., 2024: An Overview to Modeling, Characterizing, and Predicting the Effects of Internal Gravity Waves on Acoustic Propagation at Basin to Global Scales. *Oceanography* (*under review*).
 
-Trott, C. B., Subrahmanyam, B., **Hiron, L.**, and Zavala-Romero, O., 2024: Loop Current Eddies in the Gulf of Mexico using Satellite-derived Chlorophyll-a. *Remote Sensing*. (*under review*).
-
 Buijsman, M. C., Arbic, B. K., Chassignet, E. P., **Hiron, L.**, Shriver, J. F., Solano, M., and Xu, X., 2024: Variance in Baroclinic Modes across Frequency Bands in a Global Ocean Simulation with Atmospheric and Tidal Forcing. *Ocean Modelling* (*under review*).
+
+Trott, C. B., Subrahmanyam, B., **Hiron, L.**, and Zavala-Romero, O., 2024: Loop Current Eddies in the Gulf of Mexico using Satellite-derived Chlorophyll-a. *Remote Sensing*. (*in press*).
 
 Macdonald, A. M., **Hiron, L.**, McRaven, L., Stolp, L., Strom, K., Hudak, R., Smith, S., Hummon, J., and Andres, M., 2024: A Framework for Multidisciplinary Science Observations from Commercial Ships. *ICES Journal of Marine Science*, fsae011. [https://doi.org/10.1093/icesjms/fsae011](https://doi.org/10.1093/icesjms/fsae011){:target="_blank"}.
 
@@ -53,6 +53,8 @@ Selected to attend the *XI Physical Oceanography Dissertation Symposium (PODS)*,
 **Hiron, L.**, Jaimes, B., and Shay, L.K. Ageostrophic flow observed in the Loop Current System. **2020 Gulf of Mexico Oil Spill & Ecosystem Science Conference**. Tampa, USA, February 2020 (*invited speaker*).
 
 ## Posters
+**Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C.; Solano, M. The influence of vertical resolution on internal tide energetics and effects on mixing. 2024 Ocean Mixing Gordon Research Conference. South Hadley, Massachusetts, USA, June 2024.
+
 **Hiron, L.**, Schonau, M., Raja, K., Chassignet, E. P., and Bozec, A. The Influence of Vertical Resolution on Internal Tide Energetics and its Effects on Acoustics Propagation. 2024 Ocean Sciences Meeting. New Orleans, USA, February 2024. 
 
 **Hiron, L.**, Zavala-Romero, O., and Miron, P. Identifying ocean Lagrangian coherent vortices using machine learning and altimetry sea surface height. Machine Learning Expo 2023 (MLx2023). Florida State University. Tallahassee, FL, April 2023. 
