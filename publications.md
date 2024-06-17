@@ -9,7 +9,7 @@ background: '/img/bg-main.jpg'
 
 **Hiron, L.**, Zavala-Romero, O., Chassignet, E. P., *et al.*, 2024: Predicting the Lagrangian coherence of eddies using machine learning and sea surface height in the Gulf of Mexico. *Journal of Physical Oceanography* (*in prep*).
 
-**Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C.; Solano, M., 2024: The influence of vertical resolution on internal tide energetics and subsequent effects on underwater acoustic propagation. *Journal of Advances in Modeling Earth Systems (JAMES)* (*under review*). Preprint available here: [https://arxiv.org/abs/2404.05924](https://arxiv.org/abs/2404.05924){:target="_blank"}.
+**Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C., Solano, M., 2024: The influence of vertical resolution on internal tide energetics and subsequent effects on underwater acoustic propagation. *Journal of Advances in Modeling Earth Systems (JAMES)* (*under review*). Preprint available here: [https://arxiv.org/abs/2404.05924](https://arxiv.org/abs/2404.05924){:target="_blank"}.
 
 Miranda J. R., Zavala-Romero, O., **Hiron, L.**, Chassignet, E. P., Subrahmanyam, B., Meunier, T., Helber, R. W.,  Pallas-Sanz, E., Tenreiro, M., 2024: Neural Synthetic Profiles from Remote Sensing and Observations (NeSPReSO) – Reconstructing temperature and salinity fields in the Gulf of Mexico. *Ocean Modelling* (*under review*).
 
@@ -53,7 +53,7 @@ Selected to attend the *XI Physical Oceanography Dissertation Symposium (PODS)*,
 **Hiron, L.**, Jaimes, B., and Shay, L.K. Ageostrophic flow observed in the Loop Current System. **2020 Gulf of Mexico Oil Spill & Ecosystem Science Conference**. Tampa, USA, February 2020 (*invited speaker*).
 
 ## Posters
-**Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C.; Solano, M. The influence of vertical resolution on internal tide energetics and effects on mixing. 2024 Ocean Mixing Gordon Research Conference. South Hadley, Massachusetts, USA, June 2024.
+**Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C., Solano, M. The influence of vertical resolution on internal tide energetics and effects on mixing. 2024 Ocean Mixing Gordon Research Conference. South Hadley, Massachusetts, USA, June 2024.
 
 **Hiron, L.**, Schonau, M., Raja, K., Chassignet, E. P., and Bozec, A. The Influence of Vertical Resolution on Internal Tide Energetics and its Effects on Acoustics Propagation. 2024 Ocean Sciences Meeting. New Orleans, USA, February 2024. 
 
