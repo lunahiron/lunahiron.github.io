@@ -59,11 +59,11 @@ Selected to attend the *XI Physical Oceanography Dissertation Symposium (PODS)*,
 **Hiron, L.**, Jaimes, B., and Shay, L.K. Ageostrophic flow observed in the Loop Current System. **2020 Gulf of Mexico Oil Spill & Ecosystem Science Conference**. Tampa, USA, February 2020 (*invited speaker*).
 
 ## Posters
-**Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C., Solano, M. The influence of vertical resolution on internal tide energetics and effects on mixing. 2024 Ocean Mixing Gordon Research Conference. South Hadley, Massachusetts, USA, June 2024.
+**Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C., Solano, M. The influence of vertical resolution on internal tide energetics and effects on mixing. **2024 Ocean Mixing Gordon Research Conference**. South Hadley, Massachusetts, USA, June 2024.
 
-**Hiron, L.**, Schonau, M., Raja, K., Chassignet, E. P., and Bozec, A. The Influence of Vertical Resolution on Internal Tide Energetics and its Effects on Acoustics Propagation. 2024 Ocean Sciences Meeting. New Orleans, USA, February 2024. 
+**Hiron, L.**, Schonau, M., Raja, K., Chassignet, E. P., and Bozec, A. The Influence of Vertical Resolution on Internal Tide Energetics and its Effects on Acoustics Propagation. **2024 Ocean Sciences Meeting**. New Orleans, USA, February 2024. 
 
-**Hiron, L.**, Zavala-Romero, O., and Miron, P. Identifying ocean Lagrangian coherent vortices using machine learning and altimetry sea surface height. Machine Learning Expo 2023 (MLx2023). Florida State University. Tallahassee, FL, April 2023. 
+**Hiron, L.**, Zavala-Romero, O., and Miron, P. Identifying ocean Lagrangian coherent vortices using machine learning and altimetry sea surface height. **Machine Learning Expo 2023 (MLx2023)**. Florida State University. Tallahassee, FL, April 2023. 
 
 **Hiron, L.**, Shay, L.K., and Jaimes, B. Local intensification of Loop Current Frontal Eddies and interaction with the Loop Current. **2019 Gulf of Mexico Oil Spill & Ecosystem Science Conference**. New Orleans, USA, February 2019.
 
