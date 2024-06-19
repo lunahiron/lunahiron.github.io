@@ -5,9 +5,13 @@ permalink: /publications/
 background: '/img/bg-main.jpg'
 ---
 
-## Peer-reviewed manuscripts
+## Publications
+
++ In preparation
 
 **Hiron, L.**, Zavala-Romero, O., Chassignet, E. P., *et al.*, 2024: Predicting the Lagrangian coherence of eddies using machine learning and sea surface height in the Gulf of Mexico. *Journal of Physical Oceanography* (*in prep*).
+
++ Under-review
 
 **Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C., Solano, M., 2024: The influence of vertical resolution on internal tide energetics and subsequent effects on underwater acoustic propagation. *Journal of Advances in Modeling Earth Systems (JAMES)* (*under review*). Preprint available here: [https://arxiv.org/abs/2404.05924](https://arxiv.org/abs/2404.05924){:target="_blank"}.
 
@@ -16,6 +20,8 @@ Miranda J. R., Zavala-Romero, O., **Hiron, L.**, Chassignet, E. P., Subrahmanyam
 Schönau, M. C., **Hiron, L.**, Ragland, J., Raja, K. J., Skitka, J., Solano, M. S., Xu, X., Arbic, B. K., Buijsman, M. C., Chassignet, E. P., Coelho, E., Helber, R. W., Shriver, J. F., Summers, J. E., Verlinden, K. L., and Wallcraft, A. J., 2024: An Overview to Modeling, Characterizing, and Predicting the Effects of Internal Gravity Waves on Acoustic Propagation at Basin to Global Scales. *Oceanography* (*under review*).
 
 Buijsman, M. C., Arbic, B. K., Chassignet, E. P., **Hiron, L.**, Shriver, J. F., Solano, M., and Xu, X., 2024: Variance in Baroclinic Modes across Frequency Bands in a Global Ocean Simulation with Atmospheric and Tidal Forcing. *Ocean Modelling* (*under review*).
+
++ Peer-reviewed manuscripts
 
 Trott, C. B., Subrahmanyam, B., **Hiron, L.**, and Zavala-Romero, O., 2024: Tracking Loop Current Eddies in the Gulf of Mexico using Satellite-derived Chlorophyll-a. *Remote Sensing*. 16(12):2234. [https://doi.org/10.3390/rs16122234]{https://doi.org/10.3390/rs16122234}{:target="_blank"}.
 
