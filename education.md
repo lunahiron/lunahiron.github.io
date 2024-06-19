@@ -16,7 +16,7 @@ background: '/img/bg-main.jpg'
 	+ <sub>Co-advisor: Professor Sabrina Speich (École Normale Supérieure, Paris) </sub>
 
 ## Work Experience
-+ Janauary 2024 - *Present*, Assistant Research Scientist at the Center for Ocean-Atmospheric Prediction Studies (COAPS) at Florida State University (FSU)
++ January 2024 - *Present*, Assistant Research Scientist at the Center for Ocean-Atmospheric Prediction Studies (COAPS) at Florida State University (FSU)
 + September 2021 - December 2023, Postdoctoral Scientist at the Center for Ocean-Atmospheric Prediction Studies (COAPS) at Florida State University (FSU) with Professor Eric Chassignet.
 	+ <sub>Project: Multi-institution Office of Naval Research (ONR) Task Force Ocean (TFO) grant “Modeling, characterizing, and predicting effects of internal gravity waves on acoustic propagation on basin to global scales”.</sub>
 
