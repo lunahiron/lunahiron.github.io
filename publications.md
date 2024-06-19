@@ -23,7 +23,7 @@ Buijsman, M. C., Arbic, B. K., Chassignet, E. P., **Hiron, L.**, Shriver, J. F.,
 
 + Peer-reviewed manuscripts
 
-Trott, C. B., Subrahmanyam, B., **Hiron, L.**, and Zavala-Romero, O., 2024: Tracking Loop Current Eddies in the Gulf of Mexico using Satellite-derived Chlorophyll-a. *Remote Sensing*. 16(12):2234. [https://doi.org/10.3390/rs16122234]{https://doi.org/10.3390/rs16122234}{:target="_blank"}.
+Trott, C. B., Subrahmanyam, B., **Hiron, L.**, and Zavala-Romero, O., 2024: Tracking Loop Current Eddies in the Gulf of Mexico using Satellite-derived Chlorophyll-a. *Remote Sensing*. 16(12):2234. [https://doi.org/10.3390/rs16122234](https://doi.org/10.3390/rs16122234){:target="_blank"}.
 
 Macdonald, A. M., **Hiron, L.**, McRaven, L., Stolp, L., Strom, K., Hudak, R., Smith, S., Hummon, J., and Andres, M., 2024: A Framework for Multidisciplinary Science Observations from Commercial Ships. *ICES Journal of Marine Science*, fsae011. [https://doi.org/10.1093/icesjms/fsae011](https://doi.org/10.1093/icesjms/fsae011){:target="_blank"}.
 
