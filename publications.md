@@ -13,9 +13,9 @@ background: '/img/bg-main.jpg'
 
 *Under review*
 
-Uchida, T., Badarvada, Y., Lapo, K., Xu, X., Arbic, B., Menemenlis, D., **Hiron, L.**, Chassignet, E. P., Shriver, J. Dynamic-Mode Decomposition of Geostrophically balanced and Unbalanced Motions from SWOT. *Geophysical Research Letters (GRL)* (*under review*). Preprint available here: [https://arxiv.org/abs/2407.09309](https://arxiv.org/abs/2407.09309){:target="_blank"}.
+Uchida, T., Badarvada, Y., Lapo, K., Xu, X., Arbic, B., Menemenlis, D., **Hiron, L.**, Chassignet, E. P., Shriver, J. Dynamic-Mode Decomposition of Geostrophically balanced and Unbalanced Motions from SWOT. *Geophysical Research Letters (GRL)* (*under review*). Preprint: [https://arxiv.org/abs/2407.09309](https://arxiv.org/abs/2407.09309){:target="_blank"}.
 
-**Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C., Solano, M., 2024: The influence of vertical resolution on internal tide energetics and subsequent effects on underwater acoustic propagation. *Journal of Advances in Modeling Earth Systems (JAMES)* (*under review*). Preprint available here: [https://arxiv.org/abs/2404.05924](https://arxiv.org/abs/2404.05924){:target="_blank"}.
+**Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C., Solano, M., 2024: The influence of vertical resolution on internal tide energetics and subsequent effects on underwater acoustic propagation. *Journal of Advances in Modeling Earth Systems (JAMES)* (*under review*). Preprint: [https://arxiv.org/abs/2404.05924](https://arxiv.org/abs/2404.05924){:target="_blank"}.
 
 Miranda J. R., Zavala-Romero, O., **Hiron, L.**, Chassignet, E. P., Subrahmanyam, B., Meunier, T., Helber, R. W.,  Pallas-Sanz, E., Tenreiro, M., 2024: Neural Synthetic Profiles from Remote Sensing and Observations (NeSPReSO) – Reconstructing temperature and salinity fields in the Gulf of Mexico. *Ocean Modelling* (*under review*).
 
