@@ -13,7 +13,7 @@ background: '/img/bg-main.jpg'
 
 Uchida, T., Badarvada, Y., Lapo, K., Xu, X., Arbic, B., Menemenlis, D., **Hiron, L.**, Chassignet, E. P., Shriver, J. Dynamic-Mode Decomposition of Geostrophically balanced and Unbalanced Motions from SWOT. *Geophysical Research Letters (GRL)* (*under review*). Preprint: [https://arxiv.org/abs/2407.09309](https://arxiv.org/abs/2407.09309){:target="_blank"}.
 
-Miranda J. R., Zavala-Romero, O., **Hiron, L.**, Chassignet, E. P., Subrahmanyam, B., Meunier, T., Helber, R. W.,  Pallas-Sanz, E., Tenreiro, M., 2024: Neural Synthetic Profiles from Remote Sensing and Observations (NeSPReSO) – Reconstructing temperature and salinity fields in the Gulf of Mexico. *Ocean Modelling* (*under review*).
+Miranda J. R., Zavala-Romero, O., **Hiron, L.**, Chassignet, E. P., Subrahmanyam, B., Meunier, T., Helber, R. W.,  Pallas-Sanz, E., Tenreiro, M., 2025: Neural Synthetic Profiles from Remote Sensing and Observations (NeSPReSO) – Reconstructing temperature and salinity fields in the Gulf of Mexico. *Ocean Modelling* (*under review*).
 
 Schönau, M. C., **Hiron, L.**, Ragland, J., Raja, K. J., Skitka, J., Solano, M. S., Xu, X., Arbic, B. K., Buijsman, M. C., Chassignet, E. P., Coelho, E., Helber, R. W., Shriver, J. F., Summers, J. E., Verlinden, K. L., and Wallcraft, A. J., 2025: An Overview to Modeling, Characterizing, and Predicting the Effects of Internal Gravity Waves on Acoustic Propagation at Basin to Global Scales. *Oceanography* (*under review*).
 
