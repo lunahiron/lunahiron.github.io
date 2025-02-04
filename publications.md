@@ -9,7 +9,7 @@ background: '/img/bg-main.jpg'
 
 *Under review*
 
-**Hiron, L.**, Zavala-Romero, O., Chassignet, E. P., Miron, P., Subrahmanyam, B., 2025: Identifying and Predicting the Lagrangian coherence of eddies in the Gulf of Mexico using machine learning and satellite observations. *Journal of Geophysical Research: Machine Learning and Computation* (*submitted*). Preprint: [10.22541/essoar.173868838.81083434/v1](10.22541/essoar.173868838.81083434/v1){:target="_blank"}.
+**Hiron, L.**, Zavala-Romero, O., Chassignet, E. P., Miron, P., Subrahmanyam, B., 2025: Identifying and Predicting the Lagrangian coherence of eddies in the Gulf of Mexico using machine learning and satellite observations. *Journal of Geophysical Research: Machine Learning and Computation* (*submitted*). Preprint: [https://doi.org/10.22541/essoar.173868838.81083434/v1](https://doi.org/10.22541/essoar.173868838.81083434/v1){:target="_blank"}.
 
 Uchida, T., Badarvada, Y., Lapo, K., Xu, X., Arbic, B., Menemenlis, D., **Hiron, L.**, Chassignet, E. P., Shriver, J. Dynamic-Mode Decomposition of Geostrophically balanced and Unbalanced Motions from SWOT. *Geophysical Research Letters (GRL)* (*under review*). Preprint: [https://arxiv.org/abs/2407.09309](https://arxiv.org/abs/2407.09309){:target="_blank"}.
 
