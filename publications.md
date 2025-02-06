@@ -9,15 +9,15 @@ background: '/img/bg-main.jpg'
 
 *Under review*
 
-**Hiron, L.**, Zavala-Romero, O., Chassignet, E. P., Miron, P., Subrahmanyam, B., 2025: Identifying and Predicting the Lagrangian coherence of eddies in the Gulf of Mexico using machine learning and satellite observations. *Journal of Geophysical Research: Machine Learning and Computation* (*submitted*). Preprint: [https://doi.org/10.22541/essoar.173868838.81083434/v1](https://doi.org/10.22541/essoar.173868838.81083434/v1){:target="_blank"}.
+**Hiron, L.**, Zavala-Romero, O., Chassignet, E. P., Miron, P., Subrahmanyam, B., 2025: Identifying and predicting the Lagrangian coherence of eddies in the Gulf of Mexico using machine learning and satellite observations. *Journal of Geophysical Research: Machine Learning and Computation* (*under review*). Preprint: [https://doi.org/10.22541/essoar.173868838.81083434/v1](https://doi.org/10.22541/essoar.173868838.81083434/v1){:target="_blank"}.
 
-Uchida, T., Badarvada, Y., Lapo, K., Xu, X., Arbic, B., Menemenlis, D., **Hiron, L.**, Chassignet, E. P., Shriver, J. Dynamic-Mode Decomposition of Geostrophically balanced and Unbalanced Motions from SWOT. *Geophysical Research Letters (GRL)* (*under review*). Preprint: [https://arxiv.org/abs/2407.09309](https://arxiv.org/abs/2407.09309){:target="_blank"}.
+Uchida, T., Yadidya, B., Lapo, K. E., Xu, X., Early, J. J., Arbic, B. K., Menemenlis, D., **Hiron, L.**, Chassignet, E. P., Shriver, J. F., and Buijsman, M. C., 2025: Dynamic-Mode Decomposition of Geostrophically Balanced Motions from SWOT Cal/Val in the Separated Gulf Stream. *Earth and Space Science* (*under review*). Preprint: [https://arxiv.org/abs/2407.09309](https://arxiv.org/abs/2407.09309){:target="_blank"}.
 
 Miranda J. R., Zavala-Romero, O., **Hiron, L.**, Chassignet, E. P., Subrahmanyam, B., Meunier, T., Helber, R. W.,  Pallas-Sanz, E., Tenreiro, M., 2025: Neural Synthetic Profiles from Remote Sensing and Observations (NeSPReSO) – Reconstructing temperature and salinity fields in the Gulf of Mexico. *Ocean Modelling* (*under review*).
 
 Schönau, M. C., **Hiron, L.**, Ragland, J., Raja, K. J., Skitka, J., Solano, M. S., Xu, X., Arbic, B. K., Buijsman, M. C., Chassignet, E. P., Coelho, E., Helber, R. W., Shriver, J. F., Summers, J. E., Verlinden, K. L., and Wallcraft, A. J., 2025: An Overview to Modeling, Characterizing, and Predicting the Effects of Internal Gravity Waves on Acoustic Propagation at Basin to Global Scales. *Oceanography* (*under review*).
 
-Buijsman, M. C., Arbic, B. K., Chassignet, E. P., **Hiron, L.**, Shriver, J. F., Solano, M., and Xu, X., 2025: Variance in Baroclinic Modes across Frequency Bands in a Global Ocean Simulation with Atmospheric and Tidal Forcing. *Ocean Modelling* (*under review*).
+Buijsman, M. C., Abdulfatai, M., Arbic, B. K., Chassignet, E. P., **Hiron, L.**, Shriver, J. F., Solano, M., Varma, D., and Xu, X., 2025: Energetics of (super)tidal baroclinic modes in a realistically forced global ocean simulation. *Journal of Geophysical Research: Oceans* (*submitted*).
 
 *Peer-reviewed manuscripts*
 
