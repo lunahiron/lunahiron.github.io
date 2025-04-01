@@ -9,17 +9,17 @@ background: '/img/bg-main.jpg'
 
 *Under review*
 
-**Hiron, L.**, Zavala-Romero, O., Chassignet, E. P., Miron, P., Subrahmanyam, B., 2025: Identifying and predicting the Lagrangian coherence of eddies in the Gulf of Mexico using machine learning and satellite observations. *Journal of Geophysical Research: Machine Learning and Computation* (*under review*). Preprint: [https://doi.org/10.22541/essoar.173868838.81083434/v1](https://doi.org/10.22541/essoar.173868838.81083434/v1){:target="_blank"}.
+**Hiron, L.**, Zavala-Romero, O., Chassignet, E. P., Miron, P., Subrahmanyam, B., 2025: Identifying and predicting the Lagrangian coherence of eddies in the Gulf of Mexico using machine learning and satellite observations. *Journal of Geophysical Research: Machine Learning and Computation* (*minor revisions*). Preprint: [https://doi.org/10.22541/essoar.173868838.81083434/v1](https://doi.org/10.22541/essoar.173868838.81083434/v1){:target="_blank"}.
 
 Buijsman, M. C., Abdulfatai, M., Arbic, B. K., Chassignet, E. P., **Hiron, L.**, Shriver, J. F., Solano, M., Varma, D., and Xu, X., 2025: Energetics of (super)tidal baroclinic modes in a realistically forced global ocean simulation. *Journal of Geophysical Research: Oceans* (*submitted*). Preprint: [https://doi.org/10.22541/essoar.173939615.50210043/v1](https://doi.org/10.22541/essoar.173939615.50210043/v1){:target="_blank"}.
 
 Uchida, T., Yadidya, B., Lapo, K. E., Xu, X., Early, J. J., Arbic, B. K., Menemenlis, D., **Hiron, L.**, Chassignet, E. P., Shriver, J. F., and Buijsman, M. C., 2025: Dynamic-Mode Decomposition of Geostrophically Balanced Motions from SWOT Cal/Val in the Separated Gulf Stream. *Earth and Space Science* (*under review*). Preprint: [https://arxiv.org/abs/2407.09309](https://arxiv.org/abs/2407.09309){:target="_blank"}.
 
-Miranda J. R., Zavala-Romero, O., **Hiron, L.**, Chassignet, E. P., Subrahmanyam, B., Meunier, T., Helber, R. W.,  Pallas-Sanz, E., Tenreiro, M., 2025: Neural Synthetic Profiles from Remote Sensing and Observations (NeSPReSO) – Reconstructing temperature and salinity fields in the Gulf of Mexico. *Ocean Modelling* (*under review*). Preprint: [https://doi.org/10.22541/essoar.173991436.63201539/v1](https://doi.org/10.22541/essoar.173991436.63201539/v1){:target="_blank"}.
-
-Schönau, M. C., **Hiron, L.**, Ragland, J., Raja, K. J., Skitka, J., Solano, M. S., Xu, X., Arbic, B. K., Buijsman, M. C., Chassignet, E. P., Coelho, E., Helber, R. W., Shriver, J. F., Summers, J. E., Verlinden, K. L., and Wallcraft, A. J., 2025: An Overview to Modeling, Characterizing, and Predicting the Effects of Internal Gravity Waves on Acoustic Propagation at Basin to Global Scales. *Oceanography* (*under review*).
+Miranda J. R., Zavala-Romero, O., **Hiron, L.**, Chassignet, E. P., Subrahmanyam, B., Meunier, T., Helber, R. W.,  Pallas-Sanz, E., Tenreiro, M., 2025: Neural Synthetic Profiles from Remote Sensing and Observations (NeSPReSO) – Reconstructing temperature and salinity fields in the Gulf of Mexico. *Ocean Modelling* (*minor revisions*). Preprint: [https://doi.org/10.22541/essoar.173991436.63201539/v1](https://doi.org/10.22541/essoar.173991436.63201539/v1){:target="_blank"}.
 
 *Peer-reviewed manuscripts*
+
+Schönau, M. C., **Hiron, L.**, Ragland, J., Raja, K. J., Skitka, J., Solano, M. S., Xu, X., Arbic, B. K., Buijsman, M. C., Chassignet, E. P., Coelho, E., Helber, R. W., Shriver, J. F., Summers, J. E., Verlinden, K. L., and Wallcraft, A. J., 2025: An Overview to Modeling, Characterizing, and Predicting the Effects of Internal Gravity Waves on Acoustic Propagation at Basin to Global Scales. *Oceanography* (*accepted*).
 
 **Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C., Solano, M., 2025: The influence of vertical resolution on internal tide energetics and subsequent effects on underwater acoustic propagation. Journal of Advances in Modeling Earth Systems, 17, e2024MS004389. [https://doi.org/10.1029/2024MS004389](https://doi.org/10.1029/2024MS004389){:target="_blank"}.
 
@@ -37,6 +37,10 @@ Macdonald, A. M., **Hiron, L.**, McRaven, L., Stolp, L., Strom, K., Hudak, R., S
 Selected to attend the *XI Physical Oceanography Dissertation Symposium (PODS)*, in Kaua’i, Hawaii. October 2021.
 
 ## Talks
+
+**Hiron, L.**, The influence of vertical resolution on internal tide energetics and subsequent effects on underwater acoustic propagation. **Scripps Institution of Oceanography**. Applied Ocean Sciences Seminar. Spring 2025 (*invited speaker*).
+
+**Hiron, L.**, The influence of vertical resolution on internal tide energetics and subsequent effects on underwater acoustic propagation. **Florida State University**. Scientific Computing Colloquium. Spring 2025 (*invited speaker*).
 
 **Hiron, L.**, Lagrangian coherence of Loop Current Frontal Eddies and their interactions with the Loop Current and the local circulation. **University of South Carolina**. Fall 2023 (*invited speaker*).
 
