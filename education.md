@@ -65,6 +65,7 @@ background: '/img/bg-main.jpg'
 + Multiple BATS and Hydrostation “S” expeditions aboard the R/V Atlantic Explorer for CTD profiles, water samples, sediment trap experiments, and deployment of Argo floats.
 
 ## Outreach
++ 2025 Women & Girls in STEM (February 2025 at Florida State University)
 + 2023 Gulf Coast Hurricane Awareness Tour (NOAA & NWS, May 2023)
 	+ <sub>Communicate with K-12 students and the local community about the role of the ocean in hurricane generation and intensification and raise awareness on hurricane preparedness.</sub>  
 + Florida State University's Women in Math, Science, and Engineering (WIMSE) program (April 2022 – *Present*).
