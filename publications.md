@@ -15,7 +15,8 @@ Uchida, T., Yadidya, B., Lapo, K. E., Xu, X., Early, J. J., Arbic, B. K., Meneme
 
 *Peer-reviewed manuscripts*
 
-**Hiron, L.**, Zavala-Romero, O., Chassignet, E. P., Miron, P., Subrahmanyam, B., 2025: Identifying and predicting the Lagrangian coherence of eddies in the Gulf of Mexico using machine learning and satellite observations. *Journal of Geophysical Research: Machine Learning and Computation* (*accepted*). https://doi.org/10.1029/2025JH000620. Preprint: [https://doi.org/10.22541/essoar.173868838.81083434/v1](https://doi.org/10.22541/essoar.173868838.81083434/v1){:target="_blank"}.
+**Hiron, L.**, Zavala-Romero, O., Chassignet, E. P., Miron, P., Subrahmanyam, B., 2025: Identifying and predicting the Lagrangian coherence of eddies in the Gulf of Mexico using machine learning and satellite observations. *Journal of Geophysical Research: Machine Learning and Computation*, 2, e2025JH000620.
+[https://doi.org/10.1029/2025JH000620](https://doi.org/10.1029/2025JH000620){:target="_blank"}.
 
 Miranda J. R., Zavala-Romero, O., **Hiron, L.**, Chassignet, E. P., Subrahmanyam, B., Meunier, T., Helber, R. W.,  Pallas-Sanz, E., Tenreiro, M., 2025: Neural Synthetic Profiles from Remote Sensing and Observations (NeSPReSO) – Reconstructing temperature and salinity fields in the Gulf of Mexico. *Ocean Modelling*, 102550. [https://doi.org/10.1016/j.ocemod.2025.102550](https://doi.org/10.1016/j.ocemod.2025.102550){:target="_blank"}.
 
