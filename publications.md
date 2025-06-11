@@ -9,11 +9,11 @@ background: '/img/bg-main.jpg'
 
 *Under review*
 
-Buijsman, M. C., Abdulfatai, M., Arbic, B. K., Chassignet, E. P., **Hiron, L.**, Shriver, J. F., Solano, M., Varma, D., and Xu, X., 2025: Energetics of (super)tidal baroclinic modes in a realistically forced global ocean simulation. *Journal of Geophysical Research: Oceans* (*minor revisions*). Preprint: [https://doi.org/10.22541/essoar.173939615.50210043/v1](https://doi.org/10.22541/essoar.173939615.50210043/v1){:target="_blank"}.
-
 Uchida, T., Yadidya, B., Lapo, K. E., Xu, X., Early, J. J., Arbic, B. K., Menemenlis, D., **Hiron, L.**, Chassignet, E. P., Shriver, J. F., and Buijsman, M. C., 2025: Dynamic-Mode Decomposition of Geostrophically Balanced Motions from SWOT Cal/Val in the Separated Gulf Stream. *Earth and Space Science* (*under revision*). Preprint: [https://arxiv.org/abs/2407.09309](https://arxiv.org/abs/2407.09309){:target="_blank"}.
 
 *Peer-reviewed manuscripts*
+
+Buijsman, M. C., Abdulfatai, M., Arbic, B. K., Chassignet, E. P., **Hiron, L.**, Shriver, J. F., Solano, M., Varma, D., and Xu, X., 2025: Energetics of (super)tidal baroclinic modes in a realistically forced global ocean simulation. *Journal of Geophysical Research: Oceans* (*accepted*). Preprint: [https://doi.org/10.22541/essoar.173939615.50210043/v1](https://doi.org/10.22541/essoar.173939615.50210043/v1){:target="_blank"}.
 
 **Hiron, L.**, Zavala-Romero, O., Chassignet, E. P., Miron, P., Subrahmanyam, B., 2025: Identifying and predicting the Lagrangian coherence of eddies in the Gulf of Mexico using machine learning and satellite observations. *Journal of Geophysical Research: Machine Learning and Computation*, 2, e2025JH000620.
 [https://doi.org/10.1029/2025JH000620](https://doi.org/10.1029/2025JH000620){:target="_blank"}.
