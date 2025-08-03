@@ -9,6 +9,8 @@ background: '/img/bg-main.jpg'
 
 *Under review*
 
+.
+
 *Peer-reviewed manuscripts*
 
 Uchida, T., Yadidya, B., Lapo, K. E., Xu, X., Early, J. J., Arbic, B. K., Menemenlis, D., **Hiron, L.**, Chassignet, E. P., Shriver, J. F., and Buijsman, M. C., 2025: Dynamic-Mode Decomposition of Geostrophically Balanced Motions from SWOT Cal/Val in the Separated Gulf Stream. *Earth and Space Science* (*accepted*). Preprint: [https://arxiv.org/abs/2407.09309](https://arxiv.org/abs/2407.09309){:target="_blank"}.
