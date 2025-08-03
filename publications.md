@@ -13,7 +13,7 @@ background: '/img/bg-main.jpg'
 
 *Peer-reviewed manuscripts*
 
-Uchida, T., Yadidya, B., Lapo, K. E., Xu, X., Early, J. J., Arbic, B. K., Menemenlis, D., **Hiron, L.**, Chassignet, E. P., Shriver, J. F., and Buijsman, M. C., 2025: Dynamic-Mode Decomposition of Geostrophically Balanced Motions from SWOT Cal/Val in the Separated Gulf Stream. *Earth and Space Science* (*accepted*). Preprint: [https://arxiv.org/abs/2407.09309](https://arxiv.org/abs/2407.09309){:target="_blank"}. <>https://doi.org/10.1029/2024EA004079.
+Uchida, T., Yadidya, B., Lapo, K. E., Xu, X., Early, J. J., Arbic, B. K., Menemenlis, D., **Hiron, L.**, Chassignet, E. P., Shriver, J. F., and Buijsman, M. C., 2025: Dynamic-Mode Decomposition of Geostrophically Balanced Motions from SWOT Cal/Val in the Separated Gulf Stream. *Earth and Space Science* (*accepted*). Preprint: [https://arxiv.org/abs/2407.09309](https://arxiv.org/abs/2407.09309){:target="_blank"}.
 
 Buijsman, M. C., Abdulfatai, M., Arbic, B. K., Chassignet, E. P., **Hiron, L.**, Shriver, J. F., Solano, M., Varma, D., and Xu, X., 2025: Energetics of (super)tidal baroclinic modes in a realistically forced global ocean simulation. *Journal of Geophysical Research: Oceans*, 130, e2025JC022460. [https://doi.org/10.1029/2025JC022460](https://doi.org/10.1029/2025JC022460){:target="_blank"}.
 
