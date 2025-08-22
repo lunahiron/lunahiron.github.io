@@ -35,7 +35,7 @@ background: '/img/bg-main.jpg'
 + Article about my Ph.D. research on the Gulf of Mexico Research Initiative (GoMRI) website: [https://gulfresearchinitiative.org/grad-student-hiron-investigates-loop-current-flows-improve-oil-transport-models/](https://gulfresearchinitiative.org/grad-student-hiron-investigates-loop-current-flows-improve-oil-transport-models/){:target="_blank"}.
 
 ## Service/Leadership
-+ Co-organizer of the 2025 American Geophysical Union Session “Mesoscale Air-Sea Interactions: Bridging Fine-Scale Processes to Climate-Relevant Effects” 
++ Co-organizer of the 2025 American Geophysical Union Ocean Sciences Session “Mesoscale Air-Sea Interactions: Bridging Fine-Scale Processes to Climate-Relevant Effects” 
 + Co-organizer and early career chair of the 2024 Ocean Sciences Meeting Session “Internal waves and their interactions with (sub)mesoscale circulation and seafloor topography” 
 + Organizer of the Understanding Gulf Ocean Systems (UGOS) monthly seminar series, funded by the National Academy of Sciences (June 2023 – *Present*)
 + FSU Postdoctoral Association Member, Vice-President, and President (January 2022 – *Present*)
