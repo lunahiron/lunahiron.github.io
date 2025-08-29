@@ -9,7 +9,8 @@ background: '/img/bg-main.jpg'
 
 *Under review*
 
-.
+Durante, G., Sheinbaum, J.,  Dominguez-Guadarrama, A., Jouanno, J.,  **Hiron, L.**, Send, U., Verdugo-Ortega, H., Ruiz-Angulo, A., 2025:
+Submesoscale Frontal Dynamics Drive Local Formation of Gulf Common Water-Type Waters in the Yucatan Channel. *Geophysical Research Letters* (*Under review*). Preprint: [https://doi.org/10.13140/RG.2.2.21721.02407](https://doi.org/10.13140/RG.2.2.21721.02407){:target="_blank"}.
 
 *Peer-reviewed manuscripts*
 
