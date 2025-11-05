@@ -9,6 +9,8 @@ background: '/img/bg-main.jpg'
 
 *Under review*
 
+Tian, S., Zhang, Y., Prein, A. F., Gilford, D. M., **Hiron, L.**, Lu, L., 2025: Investigating the impact of the Loop Current and warm mesoscale oceanic eddies in the Gulf of Mexico on hurricanes in a future climate. *Journal of Geophysical Research: Oceans* (*Under review*).
+
 Durante, G., Sheinbaum, J.,  Dominguez-Guadarrama, A., Jouanno, J.,  **Hiron, L.**, Send, U., Verdugo-Ortega, H., Ruiz-Angulo, A., 2025:
 Submesoscale Frontal Dynamics Drive Local Formation of Gulf Common Water-Type Waters in the Yucatan Channel. *Geophysical Research Letters* (*Under review*). Preprint: [https://doi.org/10.22541/essoar.175766951.15497222/v1](https://doi.org/10.22541/essoar.175766951.15497222/v1){:target="_blank"}.
 
