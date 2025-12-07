@@ -9,9 +9,13 @@ background: '/img/bg-main.jpg'
 
 *Under review*
 
-Tian, S., Zhang, Y., Prein, A. F., Gilford, D. M., **Hiron, L.**, Lu, L., 2025: Investigating the impact of the Loop Current and warm mesoscale oceanic eddies in the Gulf of Mexico on hurricanes in a future climate. *Journal of Geophysical Research: Oceans* (*Under review*).
+<!--Laxenaire, R., Chassignet, E. P., Xu, X., Wallcraft, A. J., **Hiron, L.**, Arbic, B. K., Buijsman,  M. C., Solano, M., Elipot, S.,  2026: Surface Kinetic Energy Distributions in the North and Equatorial Atlantic Derived from Surface Drifter Observations and High-Resolution Numerical Models with Tidal Forcing. *Geoscientific Model Development* (*Under review*).-->
 
-Durante, G., Sheinbaum, J.,  Dominguez-Guadarrama, A., Jouanno, J.,  **Hiron, L.**, Send, U., Verdugo-Ortega, H., Ruiz-Angulo, A., 2025:
+Lee, P., **Hiron, L.**, Gopalakrishnan, G., Subrahmanyam, B., 2026: Biophysical Drivers of Surface Chlorophyll-a in the Loop Current and Frontal Eddies in the Gulf of Mexico. *Journal of Geophysical Research: Oceans* (*Under review*).
+
+Tian, S., Zhang, Y., Prein, A. F., Gilford, D. M., **Hiron, L.**, Lu, L., 2026: Investigating the impact of the Loop Current and warm mesoscale oceanic eddies in the Gulf of Mexico on hurricanes in a future climate. *Journal of Geophysical Research: Oceans* (*Under review*).
+
+Durante, G., Sheinbaum, J.,  Dominguez-Guadarrama, A., Jouanno, J.,  **Hiron, L.**, Send, U., Verdugo-Ortega, H., Ruiz-Angulo, A., 2026:
 Submesoscale Frontal Dynamics Drive Local Formation of Gulf Common Water-Type Waters in the Yucatan Channel. *Geophysical Research Letters* (*Under review*). Preprint: [https://doi.org/10.22541/essoar.175766951.15497222/v1](https://doi.org/10.22541/essoar.175766951.15497222/v1){:target="_blank"}.
 
 *Peer-reviewed manuscripts*
