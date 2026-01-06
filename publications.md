@@ -9,7 +9,7 @@ background: '/img/bg-main.jpg'
 
 *Under review*
 
-<!--Laxenaire, R., Chassignet, E. P., Xu, X., Wallcraft, A. J., **Hiron, L.**, Arbic, B. K., Buijsman,  M. C., Solano, M., Elipot, S.,  2026: Surface Kinetic Energy Distributions in the North and Equatorial Atlantic Derived from Surface Drifter Observations and High-Resolution Numerical Models with Tidal Forcing. *Geoscientific Model Development* (*Under review*).-->
+Laxenaire, R., Chassignet, E. P., Xu, X., Wallcraft, A. J., **Hiron, L.**, Arbic, B. K., Buijsman,  M. C., Solano, M., Elipot, S.,  2026: Surface Kinetic Energy Distributions in the North and Equatorial Atlantic Derived from Surface Drifter Observations and High-Resolution Numerical Models with Tidal Forcing. *Geoscientific Model Development* (*Under review*).
 
 Lee, P., **Hiron, L.**, Gopalakrishnan, G., Subrahmanyam, B., 2026: Biophysical Drivers of Surface Chlorophyll-a in the Loop Current and Frontal Eddies in the Gulf of Mexico. *Journal of Geophysical Research: Oceans* (*Under review*).
 
