@@ -16,8 +16,9 @@ background: '/img/bg-main.jpg'
 	+ <sub>Co-advisor: Professor Sabrina Speich (École Normale Supérieure, Paris) </sub>
 
 ## Work Experience
-+ January 2024 - *Present*, Assistant Research Scientist at the Center for Ocean-Atmospheric Prediction Studies (COAPS) at Florida State University (FSU)
-+ September 2021 - December 2023, Postdoctoral Scientist at the Center for Ocean-Atmospheric Prediction Studies (COAPS) at Florida State University (FSU) with Professor Eric Chassignet.
++ September 2025 - *Present*, Research Scientist at the Royal Netherlands Meteorological Institute (KNMI), De Bilt, The Netherlands.
++ January 2024 - *Present*, Assistant Research Scientist at the Center for Ocean-Atmospheric Prediction Studies (COAPS) at Florida State University (FSU), United States.
++ September 2021 - December 2023, Postdoctoral Scientist at the Center for Ocean-Atmospheric Prediction Studies (COAPS) at Florida State University (FSU), United States, with Professor Eric Chassignet.
 	+ <sub>Project: Multi-institution Office of Naval Research (ONR) Task Force Ocean (TFO) grant “Modeling, characterizing, and predicting effects of internal gravity waves on acoustic propagation on basin to global scales”.</sub>
 
 + October 2015 – July 2016, Research Technician for the Bermuda Atlantic Time-series Study (BATS) at the Bermuda Institute of Ocean Sciences (BIOS), supervised by Rodney Johnson.
