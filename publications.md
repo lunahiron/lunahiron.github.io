@@ -47,6 +47,8 @@ Selected to attend the *XI Physical Oceanography Dissertation Symposium (PODS)*,
 
 ## Talks
 
+**Hiron, L.**, Internal tides catalyze geostrophic eddy instabilities. **Utrecht University**. Institute for Marine and Atmospheric research Utrecht (IMAU) Colloquium. Spring 2026 (*invited speaker*).
+
 **Hiron, L.**, The influence of vertical resolution on internal tide energetics and subsequent effects on underwater acoustic propagation. **Scripps Institution of Oceanography**. Applied Ocean Sciences Seminar. Spring 2025 (*invited speaker*).
 
 **Hiron, L.**, The influence of vertical resolution on internal tide energetics and subsequent effects on underwater acoustic propagation. **Florida State University**. Scientific Computing Colloquium. Spring 2025 (*invited speaker*).
@@ -72,7 +74,10 @@ Selected to attend the *XI Physical Oceanography Dissertation Symposium (PODS)*,
 **Hiron, L.**, Jaimes, B., and Shay, L.K. Ageostrophic flow observed in the Loop Current System. **2020 Gulf of Mexico Oil Spill & Ecosystem Science Conference**. Tampa, USA, February 2020 (*invited speaker*).
 
 ## Posters
-**Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C., Solano, M. The influence of vertical resolution on internal tide energetics and effects on mixing. **2024 Ocean Mixing Gordon Research Conference**. South Hadley, Massachusetts, USA, June 2024.
+
+**Hiron, L.**, Early, J.J., Lilly, J.M., Raja, K.J., and Wortham, C.J. Internal tides catalyze geostrophic eddy instabilities. **2026 Ocean Sciences Meeting**. Glasgow, Scotland, February 2026. 
+
+**Hiron, L.**, Schönau, M. C., Raja, K. J., Chassignet, E. P., Buijsman, M. C., Arbic, B. K., Bozec, A., Coelho, E, M. C., and Solano, M. The influence of vertical resolution on internal tide energetics and effects on mixing. **2024 Ocean Mixing Gordon Research Conference**. South Hadley, Massachusetts, USA, June 2024.
 
 **Hiron, L.**, Schonau, M., Raja, K., Chassignet, E. P., and Bozec, A. The Influence of Vertical Resolution on Internal Tide Energetics and its Effects on Acoustics Propagation. **2024 Ocean Sciences Meeting**. New Orleans, USA, February 2024. 
 
