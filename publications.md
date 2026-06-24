@@ -11,11 +11,11 @@ background: '/img/bg-main.jpg'
 
 Laxenaire, R., Chassignet, E. P., Xu, X., Wallcraft, A. J., **Hiron, L.**, Arbic, B. K., Buijsman,  M. C., Solano, M., Elipot, S.,  2026: Surface Kinetic Energy Distributions in the North and Equatorial Atlantic Derived from Surface Drifter Observations and High-Resolution Numerical Models with Tidal Forcing. *Geoscientific Model Development* (*Under review*). Preprint: [https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6355/](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6355/){:target="_blank"}.
 
-Lee, P., **Hiron, L.**, Gopalakrishnan, G., Subrahmanyam, B., 2026: Biophysical Drivers of Surface Chlorophyll-a in the Loop Current and Frontal Eddies in the Gulf of Mexico. *Journal of Geophysical Research: Oceans* (*minor revisions*).
-
 Tian, S., Zhang, Y., Prein, A. F., Gilford, D. M., **Hiron, L.**, Lu, L., 2026: Investigating the impact of the Loop Current and warm mesoscale oceanic eddies in the Gulf of Mexico on hurricanes in a future climate. *Journal of Geophysical Research: Oceans* (*Under review*).
 
 *Peer-reviewed manuscripts*
+
+Lee, P., **Hiron, L.**, Gopalakrishnan, G., Subrahmanyam, B., 2026: Biophysical Drivers of Surface Chlorophyll-a in the Loop Current and Frontal Eddies in the Gulf of Mexico. *Journal of Geophysical Research: Oceans* (*accepted*).
 
 Durante, G., Sheinbaum, J., Domínguez-Guadarrama, A., Jouanno, J., **Hiron, L.**, Send, U., et al. (2026). Frontal-driven water-mass transformation in a western boundary current: Evidence from the Yucatan current. *Geophysical Research Letters*, 53, e2025GL119064. [https://doi.org/10.1029/2025GL119064](https://doi.org/10.1029/2025GL119064){:target="_blank"}.
 
