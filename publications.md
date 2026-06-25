@@ -15,7 +15,7 @@ Tian, S., Zhang, Y., Prein, A. F., Gilford, D. M., **Hiron, L.**, Lu, L., 2026: 
 
 *Peer-reviewed manuscripts*
 
-Lee, P., **Hiron, L.**, Gopalakrishnan, G., Subrahmanyam, B., 2026: Biophysical Drivers of Surface Chlorophyll-a in the Loop Current and Frontal Eddies in the Gulf of Mexico. *Journal of Geophysical Research: Oceans* (*accepted*).
+Lee, P., **Hiron, L.**, Gopalakrishnan, G., and Subrahmanyam, B., 2026: Biophysical drivers of surface chlorophyll‐a in the Loop Current and Frontal Eddies in the Gulf of Mexico. *Journal of Geophysical Research: Oceans*, 131, e2025JC023797. [https://doi.org/10.1029/2025JC023797](https://doi.org/10.1029/2025JC023797){:target="_blank"}.
 
 Durante, G., Sheinbaum, J., Domínguez-Guadarrama, A., Jouanno, J., **Hiron, L.**, Send, U., et al. (2026). Frontal-driven water-mass transformation in a western boundary current: Evidence from the Yucatan current. *Geophysical Research Letters*, 53, e2025GL119064. [https://doi.org/10.1029/2025GL119064](https://doi.org/10.1029/2025GL119064){:target="_blank"}.
 
