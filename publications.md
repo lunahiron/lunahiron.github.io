@@ -21,7 +21,7 @@ Lee, P., **Hiron, L.**, Gopalakrishnan, G., and Subrahmanyam, B., 2026: Biophysi
 
 Durante, G., Sheinbaum, J., Domínguez-Guadarrama, A., Jouanno, J., **Hiron, L.**, Send, U., et al. (2026). Frontal-driven water-mass transformation in a western boundary current: Evidence from the Yucatan current. *Geophysical Research Letters*, 53, e2025GL119064. [https://doi.org/10.1029/2025GL119064](https://doi.org/10.1029/2025GL119064){:target="_blank"}.
 
-Uchida, T., Yadidya, B., Lapo, K. E., Xu, X., Early, J. J., Arbic, B. K., Menemenlis, D., **Hiron, L.**, Chassignet, E. P., Shriver, J. F., and Buijsman, M. C., 2025: Dynamic mode decomposition of geostrophically balanced motions from SWOT Cal/Val in the separated Gulf Stream. Earth and Space Science, 12, e2024EA004079. [https://doi.org/10.1029/2024EA004079](https://doi.org/10.1029/2024EA004079){:target="_blank"}.
+Uchida, T., Yadidya, B., Lapo, K. E., Xu, X., Early, J. J., Arbic, B. K., Menemenlis, D., **Hiron, L.**, Chassignet, E. P., Shriver, J. F., and Buijsman, M. C., 2025: Dynamic mode decomposition of geostrophically balanced motions from SWOT Cal/Val in the separated Gulf Stream. *Earth and Space Science*, 12, e2024EA004079. [https://doi.org/10.1029/2024EA004079](https://doi.org/10.1029/2024EA004079){:target="_blank"}.
 
 Buijsman, M. C., Abdulfatai, M., Arbic, B. K., Chassignet, E. P., **Hiron, L.**, Shriver, J. F., Solano, M., Varma, D., and Xu, X., 2025: Energetics of (super)tidal baroclinic modes in a realistically forced global ocean simulation. *Journal of Geophysical Research: Oceans*, 130, e2025JC022460. [https://doi.org/10.1029/2025JC022460](https://doi.org/10.1029/2025JC022460){:target="_blank"}.
 
