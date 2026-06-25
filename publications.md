@@ -9,6 +9,8 @@ background: '/img/bg-main.jpg'
 
 *Under review*
 
+**Hiron, L.**, Early, J. J., Lilly, J. M., Raja, K. J., and Wortham, C. J., 2026: Internal tides catalyze geostrophic eddy instability. *Journal of Physical Oceanography* (*Under review*).
+
 Laxenaire, R., Chassignet, E. P., Xu, X., Wallcraft, A. J., **Hiron, L.**, Arbic, B. K., Buijsman,  M. C., Solano, M., Elipot, S.,  2026: Surface Kinetic Energy Distributions in the North and Equatorial Atlantic Derived from Surface Drifter Observations and High-Resolution Numerical Models with Tidal Forcing. *Geoscientific Model Development* (*Under review*). Preprint: [https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6355/](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6355/){:target="_blank"}.
 
 Tian, S., Zhang, Y., Prein, A. F., Gilford, D. M., **Hiron, L.**, Lu, L., 2026: Investigating the impact of the Loop Current and warm mesoscale oceanic eddies in the Gulf of Mexico on hurricanes in a future climate. *Journal of Geophysical Research: Oceans* (*Under review*).
