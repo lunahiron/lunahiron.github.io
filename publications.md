@@ -11,15 +11,15 @@ background: '/img/bg-main.jpg'
 
 **Hiron, L.**, Early, J. J., Lilly, J. M., Raja, K. J., and Wortham, C. J., 2026: Internal tides catalyze geostrophic eddy instability. *Journal of Physical Oceanography* (*Under review*).
 
-Laxenaire, R., Chassignet, E. P., Xu, X., Wallcraft, A. J., **Hiron, L.**, Arbic, B. K., Buijsman,  M. C., Solano, M., Elipot, S.,  2026: Surface Kinetic Energy Distributions in the North and Equatorial Atlantic Derived from Surface Drifter Observations and High-Resolution Numerical Models with Tidal Forcing. *Geoscientific Model Development* (*Under review*). Preprint: [https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6355/](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6355/){:target="_blank"}.
-
 Tian, S., Zhang, Y., Prein, A. F., Gilford, D. M., **Hiron, L.**, Lu, L., 2026: Investigating the impact of the Loop Current and warm mesoscale oceanic eddies in the Gulf of Mexico on hurricanes in a future climate. *Journal of Geophysical Research: Oceans* (*Under review*).
 
 *Peer-reviewed manuscripts*
 
+Laxenaire, R., Chassignet, E. P., Xu, X., Wallcraft, A. J., **Hiron, L.**, Arbic, B. K., Buijsman,  M. C., Solano, M., Elipot, S.,  2026: Surface horizontal kinetic energy sensitivity to numerical parameters in tidal-resolving North and Equatorial Atlantic simulations. *Geoscientific Model Development*, 19, 5571–5599. [https://doi.org/10.5194/gmd-19-5571-2026](https://doi.org/10.5194/gmd-19-5571-2026){:target="_blank"}.
+
 Lee, P., **Hiron, L.**, Gopalakrishnan, G., and Subrahmanyam, B., 2026: Biophysical drivers of surface chlorophyll‐a in the Loop Current and Frontal Eddies in the Gulf of Mexico. *Journal of Geophysical Research: Oceans*, 131, e2025JC023797. [https://doi.org/10.1029/2025JC023797](https://doi.org/10.1029/2025JC023797){:target="_blank"}.
 
-Durante, G., Sheinbaum, J., Domínguez-Guadarrama, A., Jouanno, J., **Hiron, L.**, Send, U., et al. (2026). Frontal-driven water-mass transformation in a western boundary current: Evidence from the Yucatan current. *Geophysical Research Letters*, 53, e2025GL119064. [https://doi.org/10.1029/2025GL119064](https://doi.org/10.1029/2025GL119064){:target="_blank"}.
+Durante, G., Sheinbaum, J., Domínguez-Guadarrama, A., Jouanno, J., **Hiron, L.**, Send, U., Verdugo-Ortega, H., and Ruiz-Angulo, A, 2026: Frontal-driven water-mass transformation in a western boundary current: Evidence from the Yucatan current. *Geophysical Research Letters*, 53, e2025GL119064. [https://doi.org/10.1029/2025GL119064](https://doi.org/10.1029/2025GL119064){:target="_blank"}.
 
 Uchida, T., Yadidya, B., Lapo, K. E., Xu, X., Early, J. J., Arbic, B. K., Menemenlis, D., **Hiron, L.**, Chassignet, E. P., Shriver, J. F., and Buijsman, M. C., 2025: Dynamic mode decomposition of geostrophically balanced motions from SWOT Cal/Val in the separated Gulf Stream. *Earth and Space Science*, 12, e2024EA004079. [https://doi.org/10.1029/2024EA004079](https://doi.org/10.1029/2024EA004079){:target="_blank"}.
 
