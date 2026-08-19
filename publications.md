@@ -9,7 +9,7 @@ background: '/img/bg-main.jpg'
 
 *Under review*
 
-Alinaghi, P., Drijfhout, S., Köhn, E. E., Kwiatkowski, L., Cioffi, E., Angevaare, J., and **Hiron, L.**, 2026: Ocean biogeochemistry undergoes dramatic shifts at warming levels close to the Paris Agreement targets in CMIP6. *Earth's Future* (*Under review*). Preprint: [https://essopenarchive.org/doi/full/10.22541/essoar.15007523/v1](https://essopenarchive.org/doi/full/10.22541/essoar.15007523/v1){:target="_blank"}.
+Alinaghi, P., Drijfhout, S., Köhn, E. E., Kwiatkowski, L., Cioffi, E., Angevaare, J., and **Hiron, L.**, 2026: Ocean biogeochemistry undergoes dramatic shifts at warming levels close to the Paris Agreement targets in CMIP6. *Earth's Future*. Preprint: [https://essopenarchive.org/doi/full/10.22541/essoar.15007523/v1](https://essopenarchive.org/doi/full/10.22541/essoar.15007523/v1){:target="_blank"} (*Under review*). 
 
 **Hiron, L.**, Early, J. J., Lilly, J. M., Raja, K. J., and Wortham, C. J., 2026: Internal tides catalyze geostrophic eddy instability. *Journal of Physical Oceanography* (*Under review*).
 
