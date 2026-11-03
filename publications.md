@@ -9,6 +9,8 @@ background: '/img/bg-main.jpg'
 
 *Under review*
 
+Devilliers, M., Lembo, V., Trombini, I., Navarro-Labastida, R., Bellucci, A., Bellomo, K., Corti, S., D’Agostino, R., Guo, C., **Hiron, L.**, Koenigk, T., Le Sager, P., Mahmood, R., Meccia, V. L., Rodehacke, C., Sicardi, V., Vacca, A. V., Vallot, D., van der Linden, E., Wehrlé, A. J., Wyser, K., and Yang, S., 2026: Sensitivity of EC-Earth3-ESM to freshwater perturbations in the North Atlantic: insights from TIPMIP-OCEAN phase 1. *Earth System Dynamics* (*Under review*). 
+
 Alinaghi, P., Drijfhout, S., Köhn, E. E., Kwiatkowski, L., Cioffi, E., Angevaare, J., and **Hiron, L.**, 2026: Ocean biogeochemistry undergoes dramatic shifts at warming levels close to the Paris Agreement targets in CMIP6. *Earth's Future*. Preprint: [https://essopenarchive.org/doi/full/10.22541/essoar.15007523/v1](https://essopenarchive.org/doi/full/10.22541/essoar.15007523/v1){:target="_blank"} (*Under review*). 
 
 **Hiron, L.**, Early, J. J., Lilly, J. M., Raja, K. J., and Wortham, C. J., 2026: Internal tides catalyze geostrophic eddy instability. *Journal of Physical Oceanography* (*Under review*).
